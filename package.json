@@ -1,0 +1,15 @@
+{
+  "name": "jscourse",
+  "version": "1.0.0",
+  "private":true,
+  "description": "demo project for js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATMka/jscourse.git"
+  },
+  "author": "atmka",
+  "license": "MIT"
+}
